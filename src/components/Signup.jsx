@@ -1,5 +1,4 @@
 export default function Signup() {
-
   function handleSubmit(event) {
     event.preventDefault();
 
